@@ -4,6 +4,8 @@ with open("testerfilesofch9/file1.txt" , "r") as f,open("testerfilesofch9/file2.
     c1 = f.read()
     c2 = f2.read()
     
+
+    
     
 if c1 == c2 :
     print("both are same ")
