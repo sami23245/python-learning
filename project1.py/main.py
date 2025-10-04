@@ -61,7 +61,7 @@ class main:                     #this is main class in this contain every functi
             
             
             if seci == 1:
-            
+                print("")
             
                 def Book_tickets(self):
         
@@ -73,7 +73,7 @@ class main:                     #this is main class in this contain every functi
         
             # self.cheok = str(input("Enter your choice: "))
         
-                    choak = str(input("enter :  "))
+                    self.choak = (input("enter :  "))
         
             
         
@@ -81,7 +81,7 @@ class main:                     #this is main class in this contain every functi
         
             
             
-                        if self.choak == "Train1":
+                        if self.choak == 1:
                 
                             print(f"you chose {self.name1}")
 
@@ -113,7 +113,7 @@ class main:                     #this is main class in this contain every functi
                                 else :
                     
                                     print("payment denied")
-                        elif self.cheok == "Train2":
+                        if self.cheok == "Train2":
                     
                                 print(f"you chose {self.name2}")
 

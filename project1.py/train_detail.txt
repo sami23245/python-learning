@@ -1,24 +1,24 @@
 train: Rawapindi Express
- Fare:400
- ArivalTime:15
- From:Rawalpindi
- To:Lahore
+  Fare: 400
+  ArrivalTime: 15
+  From: Rawalpindi
+  To: Lahore
 
 train: Green line
- Fare:700
- ArivalTime:55
- From:Rawalpindi
- To:Swat
+  Fare: 700
+  ArrivalTime: 55
+  From: Rawalpindi
+  To: Swat
 
 train: Shek Awan
- Fare:500
- ArivalTime:10
- From:Rawalpindi
- To:karachi
+  Fare: 500
+  ArrivalTime: 10
+  From: Rawalpindi
+  To: Karachi
 
 train: king ways
- Fare:300
- ArivalTime:19
- From:Rawalpindi
- To:kotli
+  Fare: 300
+  ArrivalTime: 19
+  From: Rawalpindi
+  To: Kotli
 
